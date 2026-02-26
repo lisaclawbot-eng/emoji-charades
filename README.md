@@ -1,2 +1,3 @@
-# emoji-charades
-Simple asynchronous social guessing game using emojis. Built for fast monetization!
+# Emoji Charades
+
+A simple asynchronous social guessing game using emojis. Built for fast monetization!
